@@ -1,0 +1,77 @@
+body{
+  width:60%;
+  margin:auto;
+}
+
+#contact{
+   text-align:right;
+}
+
+#logo{
+    float:left;
+}
+
+h1,h2{
+  height:10px;
+}
+
+#mainmenu{
+  text-align:right;
+  background-color: chocolate;
+  margin-top:20px;
+  padding: 10px;
+  color:white;
+  font-weight: bold;
+}
+
+#mainimage{
+  width:100%;
+}
+
+#latestnews{
+  width:40%;
+  height:100px;
+  float:left;
+}
+
+#aboutus{
+  width:58%;
+  height:100px;
+  float:right;
+}
+
+#latestnewshead{
+  background-color: darkred;
+  color:white;
+  padding:10px;
+  margin-bottom:0px;
+}
+
+#aboutushead{
+  background-color: slateblue;
+  padding:10px;
+  color:white;
+  margin-bottom:0px;
+}
+
+#marqueestyle{
+  background-color:#FFEBCD;
+  padding:10px;
+  height: 100px;
+}
+
+#aboutusdesc{
+  background-color: beige;
+  padding:10px;
+  text-align:justify;
+}
+
+#footer{
+  text-align:center;
+}
+
+.row:after{
+  content:"";
+  display: table;
+  clear:both;
+}
